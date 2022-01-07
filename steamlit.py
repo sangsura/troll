@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import sklearn
 ten=st.text_input("Nhập tên vào đây:")
 
 if ten:
